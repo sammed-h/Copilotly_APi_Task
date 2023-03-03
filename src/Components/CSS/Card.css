@@ -121,7 +121,7 @@
   font-size: 14px;
   border-radius: 3px;
   padding: 10px 30px;
-  width: 130px;
+  width: 90%;
   cursor: pointer;
   background-color: #ffff;
   border: 1px solid #bfc0c6;
@@ -138,7 +138,28 @@
 .wishBtn:hover {
   border: 1px solid black;
 }
+.wishBtnTwo {
+  border: 0;
+  font-size: 14px;
+  border-radius: 3px;
+  padding: 10px 30px;
+  width: 130px;
+  cursor: pointer;
+  background-color: #ffff;
+  border: 1px solid #bfc0c6;
+  color: black;
+  background-color: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 18px;
+  margin-left: 11px;
+  margin-bottom: 10px;
+}
 
+.wishBtnTwo:hover {
+  border: 1px solid black;
+}
 .productSize {
   margin-left: 10px;
   color: #7e818c;

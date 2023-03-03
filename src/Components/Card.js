@@ -123,7 +123,7 @@ function Card({ data }) {
                         />
                         BuyNow
                       </button>
-                      <button className="wishBtn">
+                      <button className="wishBtnTwo">
                         <img
                           src={PUBLIC_ASSETS_PATH + "/heart.png"}
                           style={{
